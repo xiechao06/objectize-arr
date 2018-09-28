@@ -1,0 +1,21 @@
+{
+  "name": "objectize-arr",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:xiechao06/objectize-arr.git",
+  "author": "xiechao06 <xiechao06@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
+  }
+}
